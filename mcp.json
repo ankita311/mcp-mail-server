@@ -1,9 +1,0 @@
-{
-  "mcpServers": {
-    "mail-tool": {
-      "command": "python",
-      "args": ["main.py"],
-      "cwd": "C:\\Users\\Ankita\\dev\\mcp_mail_function"
-    }
-  }
-}
